@@ -1,0 +1,16 @@
+The features deleteQuest and editQuest are essential for the administration
+and management of quests in the StackUp contract. The deleteQuest function allows
+the admin to remove a quest from the contract entirely. This feature is useful
+in situations where a quest is no longer relevant or needs to be discontinued. By deleting
+a quest, it ensures that it is no longer accessible to players, and the associated storage
+space is freed up.
+
+On the other hand, the editQuest function enables the admin to modify the properties of a quest.
+This feature is crucial for scenarios where the admin needs to update quest details such as the
+title, reward, or the number of rewards. By allowing edits to quests, the admin can adapt the game
+dynamics, adjust rewards, or correct any errors or outdated information associated with a quest.
+
+On the other hand, the editQuest function enables the admin to modify the properties of a quest.
+This feature is crucial for scenarios where the admin needs to update quest details such as the title,
+reward, or the number of rewards. By allowing edits to quests, the admin can adapt the game dynamics,
+adjust rewards, or correct any errors or outdated information associated with a quest.
